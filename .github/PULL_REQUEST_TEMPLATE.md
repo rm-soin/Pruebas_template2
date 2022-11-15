@@ -1,32 +1,39 @@
-## Thanks for your support to the project. Please check below mentioned points -
+## Descripcion Instalacion
+Descripcion breve de la instalacion
 
+## Solucion Funcional
+Descripcion Media de la solucion proporcionada desde un angulo funcional
 
-### What kind of change does this PR introduce ?
+## Numero de Bugs
+Digite el link de los bugs reportados a solucionar
 
-<!-- E.g. Is it a new feature, bugfix, code improvement etc. ? Add some description. -->
+## Solucion Tecnica
+Descripcion Media de la solucion proporcionada desde un angulo Tecnico
 
+## Precondiciones
+Elementos que se deben considerar antes de instalar
 
+## Postcondiciones
+Elementos que se deben considerar luego de instalar
 
-### In which branch you want the changes to merge ?
+## Requierebase de datos?
+- [ ] SI
+- [x] NO
 
-<!-- E.g. master, development, release etc. -->
+## Nombre de los esquemas.
+Lista de esquemas involucrados.
 
+## Impacto
+- [ ] Alto
+- [x] Medio
+- [ ] Bajo
 
+## Riesgo
+- [ ] Alto
+- [ ] Medio
+- [x] BAjo
 
-### Documentation updated ?
-
-<!-- E.g. Yes / No -->
-
-
-
-### Checklist
-
-- [ ] No ES Lint Error
-- [ ] No Style Lint Error
-- [ ] Unit test case update
-
-
-
-## Screenshots
-
-Please add appropriate screenshots.
+## Prioridad
+- [x] Alto
+- [ ] Medio
+- [ ] Bajo
